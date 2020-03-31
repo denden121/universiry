@@ -1,0 +1,2 @@
+The root of the function in the range from -1.0 to 1.0 is -0.4142135623730949
+The error is infinty
